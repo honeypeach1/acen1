@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### vue build infor ###
+**/src/main/resources/**
